@@ -9,3 +9,7 @@ Assignment 4 for MLCC
 #### This Assignment consists of 1 jupyter notebook:
 
 1. [Dating TensorFlow Assignment](bit.ly/1st_date_with_tf)
+
+#### If you run into errors, watch this livestream
+
+[First Date with TensorFlow](https://www.youtube.com/watch?v=wezrUxt8EN8)
